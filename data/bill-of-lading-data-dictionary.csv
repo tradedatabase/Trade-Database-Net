@@ -1,0 +1,68 @@
+field,description
+system_identity_id,Internal record identifier
+hs_code,Harmonised System (HS) product code
+hs_code_sure_level,Confidence level of the HS match
+product_description,Full commercial description of the goods
+marks_and_numbers,Shipping marks & numbers
+origin_country,Country the goods were shipped from
+destination_country,Country the goods were shipped to
+del_country,Final delivery country
+country_sure_level,Confidence level of the country match
+year,Shipment year
+month,Shipment month
+period,Reporting period (year-month)
+sailing_date,Date the vessel departed origin
+estimate_arrival_date,Estimated arrival date
+actual_arrival_date,Actual arrival date
+flow,Trade direction (import / export)
+mode_of_transportation,Transport mode (sea/air/land)
+lane_value_usd,Shipment value on the lane (USD)
+cif_value_usd,CIF value (USD)
+quantity_unit,Unit of quantity
+weight_unit,Unit of weight
+supplier_name,Exporter / shipper company name
+supplier_duns,Supplier D-U-N-S identifier
+supplier_address,Supplier full address
+supplier_city,Supplier city
+supplier_phone,Supplier phone number
+supplier_website,Supplier website
+supplier_contact,Supplier contact
+indicator_true_supplier,Verified-supplier flag
+importer_name,Importer / consignee company name
+importer_duns,Importer D-U-N-S identifier
+importer_address,Importer full address
+importer_city,Importer city
+importer_phone,Importer phone number
+importer_website,Importer website
+importer_contact,Importer contact
+indicator_true_buyer,Verified-buyer flag
+notify_party_name,Notify party company name
+notify_party_address,Notify party address
+also_notify_name,Additional notify party
+per_shipment_quantity,Quantity in this shipment
+per_shipment_weight_kg,Shipment weight (kg)
+origin_port,Port of loading
+destination_port,Port of discharge
+port_of_final_delivery,Final delivery point
+teu,Twenty-foot equivalent units
+feu,Forty-foot equivalent units
+cbm,Cubic metres (volume)
+vessel_name,Vessel name
+vessel_code,IMO vessel code
+vessel_country_code,Vessel flag country
+voyage,Voyage number
+manifest_no,Manifest number
+carrier_sasc_code,Carrier SCAC code
+bill_type_code,Bill of lading type
+bill_of_lading_no,Bill of lading number
+master_bill_of_lading,Master bill of lading reference
+container_id,Container number
+container_size,Container size
+container_type,Container type
+container_desc_code,Container description code
+container_load_status,FCL / LCL load status
+container_type_of_service,Service type
+booking_contact_email,Booking contact email
+booking_contact_phone,Booking contact phone
+freight_forwarder_name,Freight forwarder
+estimated_value_usd,Estimated value (USD)

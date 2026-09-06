@@ -1,0 +1,81 @@
+commodity,hs_code_prefixes,slug
+Air Conditioners,8415,air-conditioners
+Aluminium,76,aluminium
+Auto Parts,8708,auto-parts
+Batteries,"8506, 8507",batteries
+Bicycles,8712,bicycles
+Cables & Wire,8544,cables-wire
+Carpets & Rugs,"5701, 5702, 5703",carpets
+Cars & Vehicles,8703,cars
+Cement,2523,cement
+Ceramic Tiles,6907,ceramic-tiles
+Coal,2701,coal
+Cocoa,"1801, 1805, 1806",cocoa
+Coffee,0901,coffee
+Computers & Laptops,8471,computers
+Copper,74,copper
+Cosmetics,"3303, 3304",cosmetics
+Cotton,"5201, 5205, 5208",cotton
+Crude Oil,2709,crude-oil
+Dairy & Milk,"0402, 0405, 0406",dairy
+Electric Motors & Generators,"8501, 8502",electric-motors
+Electronics,85,electronics
+Fertilizers,"3102, 3103, 3104, 3105",fertilizers
+Footwear,"6402, 6403, 6404",footwear
+Fresh Fruits,"0803, 0804, 0805, 0806, 0808",fruits
+Furniture,"9401, 9403",furniture
+Garments & Apparel,"61, 62",garments
+Glass,"7003, 7005, 7007, 7013",glass
+Gold,7108,gold
+Jewellery,"7113, 7117",jewellery
+Leather,"4104, 4107, 4202",leather
+LED Lights,"9405, 8539",led-lights
+Machinery,84,machinery
+Maize (Corn),1005,maize-corn
+Marble & Granite,"2515, 2516, 6802",marble-granite
+Meat,"0201, 0202, 0203",meat
+Medical Devices,"9018, 9019, 9021, 9022",medical-devices
+Mobile Phones,8517,mobile-phones
+Motorcycles,8711,motorcycles
+Musical Instruments,"9202, 9205, 9207",musical-instruments
+Nuts,"0801, 0802",nuts
+Onions & Garlic,0703,onions-garlic
+Organic Chemicals,29,organic-chemicals
+Paints & Coatings,"3208, 3209, 3210",paints
+Palm Oil,1511,palm-oil
+Paper & Paperboard,"4802, 4810, 4819",paper
+Pharmaceuticals,"3003, 3004, 3002",pharmaceuticals
+Plastics,"3901, 3902, 3907, 3923",plastics
+Plywood,4412,plywood
+Poultry,0207,poultry
+Pumps,8413,pumps
+Refined Petroleum,2710,refined-petroleum
+Refrigerators,8418,refrigerators
+Rice,1006,rice
+Rubber,"4001, 4002",rubber
+Sanitaryware,6910,sanitaryware
+Metal Scrap,"7204, 7404, 7602",scrap-metal
+Seafood & Fish,"0303, 0304, 0305, 0306, 0307",seafood
+Semiconductors & ICs,8542,semiconductors
+Soap & Detergents,"3401, 3402",soap-detergent
+Solar Panels,8541,solar-panels
+Soybeans,1201,soybeans
+Spectacles & Eyewear,"9003, 9004",spectacles
+Spices,"0904, 0906, 0908, 0909, 0910",spices
+Sports Goods,9506,sports-goods
+Stationery,"4820, 9608, 9609",stationery
+Steel & Iron,72,steel
+Sugar,1701,sugar
+Sunflower Oil,1512,sunflower-oil
+T-Shirts,6109,t-shirts
+Tea,0902,tea
+Tobacco,"2401, 2402",tobacco
+Toys & Games,"9503, 9504",toys
+Tractors,8701,tractors
+Transformers,8504,transformers
+Trucks & Commercial Vehicles,"8704, 8701",trucks
+Tyres,4011,tyres
+Watches,"9101, 9102",watches
+Wheat,1001,wheat
+Wine,2204,wine
+Wood & Timber,"4403, 4407, 4409",wood-timber
