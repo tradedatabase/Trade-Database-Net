@@ -18,6 +18,7 @@ aggregate numbers and a clear map of what full shipment data contains.
 | [`data/hs-code-commodity-reference.csv`](data/hs-code-commodity-reference.csv) | A quick **HS-code ↔ commodity** reference across 80 major traded goods. |
 | [`data/bill-of-lading-data-dictionary.csv`](data/bill-of-lading-data-dictionary.csv) | The **67 fields** in a full bill-of-lading shipment record, each explained in plain terms. |
 | [`toolkit/analyze.py`](toolkit/analyze.py) | Zero-dependency Python to explore the data (top importers/exporters, per-country summary). |
+| [`samples/`](samples/) | **Real record-level sample datasets** — India/Netherlands bill of lading, Nigeria customs, spices & vehicle trade, company master. Company names & shipment detail included; direct contacts masked. |
 
 ## Quick start
 
